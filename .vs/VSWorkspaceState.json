@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows"
+    "\\src",
+    "\\src\\pages",
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\.github\\workflows\\deploy.yml",
+  "SelectedNode": "\\src\\styles\\global.css",
   "PreviewInSolutionExplorer": false
 }

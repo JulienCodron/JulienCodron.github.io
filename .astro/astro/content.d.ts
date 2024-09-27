@@ -141,30 +141,58 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"work": {
-"bloom-box.md": {
-	id: "bloom-box.md";
-  slug: "bloom-box";
+"Defi-TL.md": {
+	id: "Defi-TL.md";
+  slug: "defi-tl";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"h20.md": {
-	id: "h20.md";
-  slug: "h20";
+"Famirea.md": {
+	id: "Famirea.md";
+  slug: "famirea";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"markdown-mystery-tour.md": {
-	id: "markdown-mystery-tour.md";
-  slug: "markdown-mystery-tour";
+"Halle4-0.md": {
+	id: "Halle4-0.md";
+  slug: "halle4-0";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"nested/duvet-genius.md": {
-	id: "nested/duvet-genius.md";
-  slug: "nested/duvet-genius";
+"LaTableDeMarie.md": {
+	id: "LaTableDeMarie.md";
+  slug: "latabledemarie";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
+"Savanimals.md": {
+	id: "Savanimals.md";
+  slug: "savanimals";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
+"SimulateurEnginDeChantier.md": {
+	id: "SimulateurEnginDeChantier.md";
+  slug: "simulateurengindechantier";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
+"Thrombopolis.md": {
+	id: "Thrombopolis.md";
+  slug: "thrombopolis";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
+"Vertexa.md": {
+	id: "Vertexa.md";
+  slug: "vertexa";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">

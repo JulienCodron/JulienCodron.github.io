@@ -1,5 +1,6 @@
 ---
 title: Simulateur d'engins de chantier
+category: "jeux"
 publishDate: 2019-10-02 00:00:00
 img: /assets/Simulateur.jpg
 img_alt: ''

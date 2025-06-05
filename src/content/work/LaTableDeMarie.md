@@ -1,6 +1,5 @@
 ---
 title: Skema
-category: "jeux"
 publishDate: 2019-10-02 00:00:00
 img: /assets/Skema.png
 img_alt: ''

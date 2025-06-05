@@ -1,6 +1,5 @@
 ---
 title: Halle 4.0
-category: "jeux"
 publishDate: 2023-08-12 00:00:00
 img: /assets/halle4-0.png
 img_alt: ''

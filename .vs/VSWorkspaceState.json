@@ -4,9 +4,7 @@
     "\\src",
     "\\src\\components",
     "\\src\\pages",
-    "\\src\\pages\\work",
     "\\src\\styles"
   ],
-  "SelectedNode": "\\src\\pages\\work\\[...slug].astro",
   "PreviewInSolutionExplorer": false
 }

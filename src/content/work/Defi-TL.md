@@ -1,6 +1,5 @@
 ---
 title: DEFI-TL
-category: "jeux"
 publishDate: 2023-08-12 00:00:00
 img: /assets/Defi-tl.png
 
@@ -11,6 +10,7 @@ tags:
   - Windows
   - Logistique
   - Apprentissage
+
 ---
 
 <p>Pour répondre à la demande d’AFTRAL et de Promotrans, acteurs majeurs de la formation professionnelle aux métiers du transport et de la logistique, Audace Digital Learning a créé un métaverse pour former les futurs professionnels de la logistique. Les apprenants, équipés de casques VR autonomes sont invités à plonger dans une halle virtuelle grandeur nature et à se former en temps réel sous la supervision d’un formateur à distance.</p>

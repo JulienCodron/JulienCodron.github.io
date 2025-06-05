@@ -1,6 +1,5 @@
 ---
 title: Famirea
-category: "jeux"
 publishDate: 2024-04-12 00:00:00
 img: /assets/Aphp2.jpg
 img_alt: ''

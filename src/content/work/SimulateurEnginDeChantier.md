@@ -1,6 +1,6 @@
 ---
 title: Simulateur d'engins de chantier
-publishDate: 2019-10-02 00:00:00
+publishDate: 2025-06-12 00:00:00
 img: /assets/Simulateur.jpg
 img_alt: ''
 description: "Simulateur d'engin de chantier destinés à la formation"

@@ -148,6 +148,13 @@ declare module 'astro:content' {
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
+"EpicBattle.md": {
+	id: "EpicBattle.md";
+  slug: "epicbattle";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
 "Famirea.md": {
 	id: "Famirea.md";
   slug: "famirea";
@@ -165,6 +172,13 @@ declare module 'astro:content' {
 "LaTableDeMarie.md": {
 	id: "LaTableDeMarie.md";
   slug: "latabledemarie";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
+"MonkeyTD.md": {
+	id: "MonkeyTD.md";
+  slug: "monkeytd";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">

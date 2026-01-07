@@ -1,6 +1,6 @@
 ---
 title: Skema
-publishDate: 2025-07-12 00:00:00
+publishDate: 2024-07-12 00:00:00
 img: /assets/Skema.png
 img_alt: ''
 description: 'Serious game 2D en multijoueur destiné aux étudiants en écoles de commerce.'

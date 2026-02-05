@@ -1,6 +1,6 @@
 ---
 title: Savanimals
-publishDate: 2025-05-12 00:00:00
+publishDate: 2023-05-12 00:00:00
 img: /assets/Savanimals.jpg
 img_alt: ''
 description: 'Projet personel, inspiré du jeux Suika game'

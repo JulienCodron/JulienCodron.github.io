@@ -140,17 +140,26 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"work": {
-"Defi-TL.md": {
-	id: "Defi-TL.md";
-  slug: "defi-tl";
-  body: string;
-  collection: "work";
-  data: InferEntrySchema<"work">
-} & { render(): Render[".md"] };
+		"NotShower": {
 "EpicBattle.md": {
 	id: "EpicBattle.md";
   slug: "epicbattle";
+  body: string;
+  collection: "NotShower";
+  data: any
+} & { render(): Render[".md"] };
+"MonkeyTD.md": {
+	id: "MonkeyTD.md";
+  slug: "monkeytd";
+  body: string;
+  collection: "NotShower";
+  data: any
+} & { render(): Render[".md"] };
+};
+"work": {
+"Defi-TL.md": {
+	id: "Defi-TL.md";
+  slug: "defi-tl";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
@@ -176,6 +185,13 @@ declare module 'astro:content' {
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
+"Ineris.md": {
+	id: "Ineris.md";
+  slug: "ineris";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
 "LaTableDeMarie.md": {
 	id: "LaTableDeMarie.md";
   slug: "latabledemarie";
@@ -183,9 +199,9 @@ declare module 'astro:content' {
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"MonkeyTD.md": {
-	id: "MonkeyTD.md";
-  slug: "monkeytd";
+"NavalGroup.md": {
+	id: "NavalGroup.md";
+  slug: "navalgroup";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">

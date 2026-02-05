@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
+    "\\public\\assets",
     "\\src",
-    "\\src\\components",
+    "\\src\\content",
+    "\\src\\content\\work",
+    "\\src\\layouts",
     "\\src\\pages",
-    "\\src\\styles"
+    "\\src\\pages\\work"
   ],
+  "SelectedNode": "\\src\\content\\work\\NavalGroup.md",
   "PreviewInSolutionExplorer": false
 }

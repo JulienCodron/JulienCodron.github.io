@@ -15,8 +15,6 @@ tags:
   - Immersive
 ---
 
-Cette application disponnible sur mobile, en VR et webGL réalisée pour l'APHP est destinné au famille de patient intégrant un service de réanimation. Elle les permets, grace à une visite virtuel ainsi que quelque mise en situation en 360 de d'informer et de rassurer les famille. 
+Cette application disponible sur mobile, en VR et webGL réalisée pour l’APHP est destiné aux familles de patient intégrant un service de réanimation. Elle les permet, grâce à une visite virtuelle ainsi que quelque mise en situation en 360 d'informer et de rassurer les familles.
 
-L'application propose également différent exercice de relaxation créer en collaboration avec une sophrrologue, dans lequels vous serez immergé dans différent environnement calme tel qu'une plage ou encore une fôret et où des exercice de respiration vous serons proposés.
-
-
+L’application propose également différents exercices de relaxation créés en collaboration avec une sophrologue, dans lesquels vous serez immergé dans différent environnement calme tel qu’une plage ou encore une forêt et où des exercice de respiration vous serons proposés.

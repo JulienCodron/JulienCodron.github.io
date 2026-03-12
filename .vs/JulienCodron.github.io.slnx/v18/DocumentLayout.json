@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\content\\work\\Thrombopolis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\work\\Thrombopolis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\content\\work\\Famirea.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\work\\Famirea.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\content\\work\\Thrombopolis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\work\\Thrombopolis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\content\\work\\NavalGroup.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Thrombopolis.md",
               "DocumentMoniker": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\content\\work\\Thrombopolis.md",
               "RelativeDocumentMoniker": "src\\content\\work\\Thrombopolis.md",
@@ -88,18 +88,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-03-12T14:52:28.736Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseLayout.astro",
-              "DocumentMoniker": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\layouts\\BaseLayout.astro",
-              "RelativeDocumentMoniker": "src\\layouts\\BaseLayout.astro",
-              "ToolTip": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\layouts\\BaseLayout.astro",
-              "RelativeToolTip": "src\\layouts\\BaseLayout.astro",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-05T14:25:44.367Z"
             },
             {
               "$type": "Document",
@@ -135,8 +123,7 @@
               "RelativeToolTip": "src\\content\\work\\NavalGroup.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-05T14:17:59.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T14:17:59.645Z"
             },
             {
               "$type": "Document",
@@ -212,16 +199,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Famirea.md",
               "DocumentMoniker": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\content\\work\\Famirea.md",
               "RelativeDocumentMoniker": "src\\content\\work\\Famirea.md",
               "ToolTip": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\content\\work\\Famirea.md",
               "RelativeToolTip": "src\\content\\work\\Famirea.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-05T14:16:49.484Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseLayout.astro",
+              "DocumentMoniker": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\layouts\\BaseLayout.astro",
+              "RelativeDocumentMoniker": "src\\layouts\\BaseLayout.astro",
+              "ToolTip": "C:\\Users\\Codro\\Documents\\GitHub\\JulienCodron.github.io\\src\\layouts\\BaseLayout.astro",
+              "RelativeToolTip": "src\\layouts\\BaseLayout.astro",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-05T14:25:44.367Z"
             },
             {
               "$type": "Document",
